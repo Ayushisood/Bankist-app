@@ -18,7 +18,7 @@ Different array methods like(map,filter,reduce etc..) , setInterval and setTimeO
 
 ## Link
 
-Bankist-App : [Netlify](https://https://bankist-app-projects.netlify.app/) 
+Bankist-App : [Netlify](https://bankist-app-projects.netlify.app/) 
 
 ## Screenshots
 
