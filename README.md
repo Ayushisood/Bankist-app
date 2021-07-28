@@ -7,7 +7,7 @@ Aim of the project was to implement banking transactions using Javascript
 ## Functionality
 
 Add User - insert any username and pin and then click add Account button to add new user, then insert newly added username and pin again \
-Close Account - to close account, enter valid username and pin \ 
+Close Account - to close account, enter valid username and pin\ 
 User will be logged out after 5 minutes of inactivity \
 Use these usernames and pins :
 * username : js | pin : 1111
